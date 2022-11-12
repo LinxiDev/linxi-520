@@ -1,4 +1,8 @@
-### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true&theme=linxi-520)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=linxi-520)
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=linxi-520" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linxi-520&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+</div>
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=linxi-520" />
+</div>
