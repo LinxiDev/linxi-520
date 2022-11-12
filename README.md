@@ -7,7 +7,6 @@
 ╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝      ╚══════╝╚══════╝ ╚═════╝ 
 ```
 <div>
-<span>&emsp;&emsp;</span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=linxi-520" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linxi-520&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
