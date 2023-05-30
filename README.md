@@ -1,6 +1,6 @@
 <div align="center" >
 <!-- just img 图片 -->
-<img src="http://linxi.tk/img/avatar.jpg" alt="Man Lifting Weights" width="250" height="250" />
+<img src="https://avatars.githubusercontent.com/u/75199709?v=4" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
