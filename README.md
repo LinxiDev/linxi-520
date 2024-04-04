@@ -2,9 +2,9 @@
 <!-- just img 图片 -->
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=linxi-520&show_icons=true&theme=tokyonight" style="width: 35%;" />
-    <img src="https://stats.justsong.cn/api/github?username=linxi-520&theme=dark&lang=zh-CN" style="width: 35%;" />
-    <img src="https://github-stats.ubrong.com/api/top-langs/?username=linxi-520&layout=compact&theme=tokyonight" style="width: 35%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=linxi-520&show_icons=true&theme=tokyonight" style="width: 30%;" />
+    <img src="https://stats.justsong.cn/api/github?username=linxi-520&theme=dark&lang=zh-CN" style="width: 30%;" />
+    <img src="https://github-stats.ubrong.com/api/top-langs/?username=linxi-520&layout=compact&theme=tokyonight" style="width: 30%;" />
 </div>
 
 
