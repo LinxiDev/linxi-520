@@ -5,7 +5,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=linxi-520&show_icons=true&theme=tokyonight" style="width: 35%;" />
     <img src="https://stats.justsong.cn/api/github?username=linxi-520&theme=dark&lang=zh-CN" style="width: 35%;" />
     <img src="https://github-stats.ubrong.com/api/top-langs/?username=linxi-520&layout=compact&theme=tokyonight" style="width: 35%;" />
-    <img align="right" alt="Coding" width="400" src="https://github.com/linxi-520/LinxiPush/raw/main/img/yzsm.png">
 </div>
 
 
