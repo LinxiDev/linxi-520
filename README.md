@@ -1,12 +1,7 @@
+## 今年汇总 ✨
+
 <div align="center" >
-<!-- just img 图片 -->
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=linxi-520&show_icons=true&theme=tokyonight" style="width: 30%;" />
-    <img src="https://stats.justsong.cn/api/github?username=linxi-520&theme=dark&lang=zh-CN" style="width: 30%;" />
-    <img src="https://github-stats.ubrong.com/api/top-langs/?username=linxi-520&layout=compact&theme=tokyonight" style="width: 30%;" />
-</div>
-
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=linxi-520&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=graywhite&bg_color=0,73FA79,73FDFF,D783FF&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linxi-520&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
