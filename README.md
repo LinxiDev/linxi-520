@@ -1,8 +1,8 @@
-## 今年汇总 ✨
-
 <div align="center" >
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=linxi-520&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=graywhite&bg_color=0,73FA79,73FDFF,D783FF&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linxi-520&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
+    <h1 align="center"><a href="https://github.com/linxi-520">✨ 林夕 ✨</a></h1>
+    <img src="https://readme-typing-svg.demolab.com/?lines=喜物而不腻于物，忠情而不限于情 ——王弼《周易注》&font=Fira%20Code&center=true&width=470&height=50&duration=4000&pause=1000" alt="动态介绍"><br>
+    <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=linxi-520&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=graywhite&bg_color=0,73FA79,73FDFF,D783FF&locale=cn" />
+    <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linxi-520&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
