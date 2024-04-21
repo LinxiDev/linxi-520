@@ -32,6 +32,6 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/linxi-520/linxi-520/assets/images/icon.png" /></div>
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
 </div>
